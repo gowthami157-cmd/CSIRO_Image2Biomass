@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+data/train/*
+data/test/*
+outputs/models/*
+outputs/logs/*
+outputs/submissions/*
+!data/metadata.csv
+!data/train_labels.csv
+*.pyo
+.venv/
+data/
+outputs/
+.ipynb_checkpoints/
